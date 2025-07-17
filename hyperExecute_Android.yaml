@@ -8,4 +8,4 @@ pre:
   - pip install -r requirements.txt
 
 testSuites:
-  - pytest tests/
+  - pytest mobile/android/test_android_app.py

@@ -1,0 +1,4 @@
+version: 0.2
+runson: win
+testSuites:
+  - pytest tests/
